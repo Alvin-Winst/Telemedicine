@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# TeleMedicine (FindIT! Hackathon UGM 2024)
 
-## Getting Started
+Kontributor:
+- **Alvin Ray Winston** : Hacker (Leader)
+- **Wiwi Oktriani**     : Hustler
+- **Ryan Nathanael**    : Hipster
 
-First, run the development server:
+**Aplikasi telemedicine** adalah platform digital yang memungkinkan pasien untuk menerima layanan kesehatan jarak jauh melalui komunikasi *online*. Ini melibatkan penggunaan teknologi, informasi, dan komunikasi (TIK), seperti telepon, video, atau pesan teks, untuk melakukan konsultasi medis, diagnosis, pengobatan, dan pemantauan kesehatan tanpa harus bertemu secara langsung dengan profesional kesehatan. Selain itu, aplikasi ini juga dapat menyediakan fitur tambahan seperti:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Fitur Community Discussion
+Memberikan ruang bagi pengguna untuk berinteraksi, berbagi pengalaman, dan memberikan dukungan satu sama lain dalam komunitas yang sama.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Blog Artikel dan Journaling
+Menyediakan konten edukatif tentang kesehatan mental, artikel terkait topik kesehatan, serta fitur jurnal untuk membantu pengguna dalam mencatat pikiran dan perasaan mereka.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Customize Avatar, Games and Mission
+Menghadirkan kustomisasi avatar user, permainan atau misi yang dirancang untuk meningkatkan kesejahteraan mental pengguna, mengurangi stres, dan meningkatkan keterlibatan dalam perawatan diri.

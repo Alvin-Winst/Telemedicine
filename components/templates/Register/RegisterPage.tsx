@@ -59,7 +59,7 @@ const RegisterPage = () => {
     } else if (registerData.password === '') {
       alert("Please fill in your password")
       return
-    } else if (registerData.confPassword !== registerData.password) {
+    } else if (registerData.confPassword != registerData.password) {
       alert("Please confirm your password correctly")
       return
     }
